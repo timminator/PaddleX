@@ -61,7 +61,7 @@ BASE_DEP_SPECS = {
     "pyclipper": "",
     "pycocotools": "<= 2.0.8",  # pycocotools upgrade incompatible since 2.0.9
     "pydantic": ">= 2",
-    "pypdfium2": ">= 4",
+    "pypdfium2": ">=4,<5",
     "pypinyin": "",
     "python-bidi": "",
     "PyYAML": "== 6.0.2",
